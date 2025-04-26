@@ -1,72 +1,63 @@
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-</div>
-<h2 align="center">Hi 👋! My name is 1lordduck and I'm a Pentester and Web Security Enthusiast from Brazil!</h2>
-
-###
-
-<p align="left">Hello! 👋<br><br>I specialize in penetration testing 🕵️‍♂️, web security 🔒, and vulnerability assessment 🛡️. I’m also experienced in binary exploitation 🖥️, having worked on challenges like Crackmes. My expertise spans web vulnerabilities 🌐, ethical hacking 🧑‍💻, and much more! 🚀</p>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="12" />
-
-  <img src="https://img.shields.io/badge/Kali Linux-557C7A?logo=kali&logoColor=white&style=for-the-badge" height="30" alt="kali linux logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Nmap-00B16A?logo=nmap&logoColor=white&style=for-the-badge" height="30" alt="nmap logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?logo=metasploit&logoColor=white&style=for-the-badge" height="30" alt="metasploit logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Burpsuite-8A3D8C?logo=burp&logoColor=white&style=for-the-badge" height="30" alt="burpsuite logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/IDA%20Pro-6E7DFF?logo=ida&logoColor=white&style=for-the-badge" height="30" alt="ida pro logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Crackmes-FF8C00?logo=none&logoColor=white&style=for-the-badge" height="30" alt="crackmes logo" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" alt="Welcome to my Github Profile" style="max-width: 100%;" />
+  <h2>Hi 👋! I'm 1lordduck — Pentester & Web Security Enthusiast from Brazil 🇧🇷</h2>
 </div>
 
-###
+---
 
-<br clear="both">
+🧠 **About Me**  
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1lordduck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1lordduck&theme=tokyonight" height="150" alt="stats graph" />
+I specialize in:
+- 🔐 Penetration Testing & Ethical Hacking  
+- 🕸️ Web Security & Vulnerability Assessment  
+- 🧬 Binary Exploitation & Reverse Engineering  
+- 🧪 Red Team Tooling & Custom Exploits  
+- 🐧 Linux systems, web infrastructure, and cloud platforms
+---
+
+### 🧰 Tech & Tools
+
+![Code-JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Code-TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![Code-Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Code-PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
+![Code-C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
+![Code-C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
+![Code-C%23](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120)
+![Code-Lua](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&color=2C2D72)
+![Web-HTML5](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&color=E34F26)
+![Web-CSS3](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&color=1572B6)
+![Web-Tailwind](https://img.shields.io/badge/Web-TailwindCSS-informational?style=flat&logo=tailwindcss&color=06B6D4)
+![Framework-Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![Framework-Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Database-MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+![Database-PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1)
+![Tool-Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
+![Deployment-Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![Cloud-AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![System-Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![System-Kali](https://img.shields.io/badge/System-Kali_Linux-informational?style=flat&logo=kali-linux&color=557C7A)
+![Tool-Nmap](https://img.shields.io/badge/Tool-Nmap-informational?style=flat&logo=nmap&color=00B16A)
+![Tool-Metasploit](https://img.shields.io/badge/Tool-Metasploit-informational?style=flat&logo=metasploit&color=000000)
+![Tool-BurpSuite](https://img.shields.io/badge/Tool-Burpsuite-informational?style=flat&logo=burp-suite&color=8A3D8C)
+![Tool-IDAPro](https://img.shields.io/badge/Tool-IDA_Pro-informational?style=flat&logo=ida&color=6E7DFF)
+![Tool-Crackmes](https://img.shields.io/badge/Tool-Crackmes-informational?style=flat&logo=none&color=FF8C00)
+
+---
+
+### 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1lordduck&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1lordduck&theme=tokyonight" height="150" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.youtube.com/@Lord_Duck" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
+### 🔗 You can find me on
 
-###
+[![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@Lord_Duck)
+
+---
+
+> ⚠️ *Always hacking ethically — knowledge is power, use it responsibly.*
