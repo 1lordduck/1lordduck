@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" alt="Welcome to my Github Profile" style="max-width: 100%;" />
+
   <h2>Hi 👋! I'm 1lordduck — Pentester & Web Security Enthusiast from Brazil 🇧🇷</h2>
-</div>
 
 ---
 
