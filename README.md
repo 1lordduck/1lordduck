@@ -1,5 +1,5 @@
 
-  <h2>Hi 👋! I'm 1lordduck — Pentester & Web Security Enthusiast from Brazil 🇧🇷</h2>
+  <h2>Hi 👋! I'm 1lordduck — Pentester from Brazil!🇧🇷</h2>
 
 ---
 
