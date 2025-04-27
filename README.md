@@ -10,7 +10,7 @@ I specialize in:
 - 🕸️ Web Security & Vulnerability Assessment  
 - 🧬 Binary Exploitation & Reverse Engineering  
 - 🧪 Red Team Tooling & Custom Exploits  
-- 🐧 Linux systems, web infrastructure, and cloud platforms
+- ☁️ Web infrastructure, and cloud platforms
 ---
 
 ### 🧰 Tech & Tools
