@@ -49,6 +49,3 @@ I specialize in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1lordduck&layout=compact&theme=tokyonight&hide_border=true" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1lordduck&theme=tokyonight" height="150" />
 </div>
---
-
-> ⚠️ *Always hacking ethically — knowledge is power, use it responsibly.*
