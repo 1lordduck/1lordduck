@@ -42,10 +42,3 @@ I specialize in:
 ![Tool-Crackmes](https://img.shields.io/badge/ForFun-Crackmes-informational?style=flat&logo=none&color=FF8C00)
 
 ---
-
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1lordduck&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1lordduck&theme=tokyonight" height="150" />
-</div>
