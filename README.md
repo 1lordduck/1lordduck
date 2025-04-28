@@ -39,7 +39,7 @@ I specialize in:
 ![Tool-Metasploit](https://img.shields.io/badge/Tool-Metasploit-informational?style=flat&logo=metasploit&color=000000)
 ![Tool-BurpSuite](https://img.shields.io/badge/Tool-Burpsuite-informational?style=flat&logo=burp-suite&color=8A3D8C)
 ![Tool-IDAPro](https://img.shields.io/badge/Tool-IDA_Pro-informational?style=flat&logo=ida&color=6E7DFF)
-![Tool-Crackmes](https://img.shields.io/badge/Tool-Crackmes-informational?style=flat&logo=none&color=FF8C00)
+![Tool-Crackmes](https://img.shields.io/badge/ForFun-Crackmes-informational?style=flat&logo=none&color=FF8C00)
 
 ---
 
